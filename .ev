@@ -1,0 +1,17 @@
+# Pump.fun API Key (from https://pump.fun/developers)
+PUMP_FUN_API="pf_1234567890abcdef"
+
+# RugCheck API Key (from https://rugcheck.xyz)
+RUGCHECK_API="rc_9876543210fedcba"
+
+# TweetScout API Key (from https://tweetscout.io)
+TWEETSCOUT_API="ts_test_567890abcdef1234"
+
+# GMGN.ai API Key (from https://gmgn.ai)
+GMGN_API="https://gmgn.ai"
+
+# BullX.io API Key (from https://bullx.io)
+BULLX_API="your_bullx_api_key"
+
+# Wallet Private Key (from Phantom Wallet export)
+WALLET_PRIVATE_KEY="your_wallet_private_key"
