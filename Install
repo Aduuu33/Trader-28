@@ -1,0 +1,1 @@
+pip install requests pandas plotly python-dotenv websockets solana
